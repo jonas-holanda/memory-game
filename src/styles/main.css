@@ -120,6 +120,7 @@ h2 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-color: #2980B8;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
