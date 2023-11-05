@@ -53,6 +53,23 @@ h2 {
     background-color: #262809;
 }
 
+.footer {
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+    align-items: center;
+}
+
+.footer p {
+    color:#ffffff;
+}
+
+.footer a {
+    color: #FEFF02;;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
 @-webkit-keyframes ef-pulse-grow {
     to {
       -webkit-transform: scale(1.1);

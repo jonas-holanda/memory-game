@@ -17,3 +17,7 @@
 - **Botão de Reiniciar Jogo**: Caso queira jogar novamente, é só clicar no botão para reiniciar o jogo.
 
 **Link do jogo: [https://jonas-holanda.github.io/memory-game/](https://jonas-holanda.github.io/memory-game/)**
+
+<p align="center">
+    <strong>Copyright © <a href="https://github.com/jonas-holanda" target="_blank">Jonas Holanda</a>. All Rights Reserved.</strong>
+</p>

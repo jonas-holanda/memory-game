@@ -63,12 +63,12 @@ function checkMatch() {
 
     if (document.querySelectorAll(".boxmatch").length === emojis.length) {
         Swal.fire({
-            title: 'Parabéns!',
-            text: 'Você encontrou todos os pares de animais.',
-            imageUrl: './src/images/logo2.webp',
+            title: "Parabéns!",
+            text: "Você encontrou todos os pares de animais.",
+            imageUrl: "./src/images/logo2.webp",
             imageWidth: 400,
             imageHeight: 300,
-            imageAlt: 'Logo Jogo da Memória',
+            imageAlt: "Logo Jogo da Memória",
           });
     }
 
@@ -79,3 +79,7 @@ function playSound(audioName) {
     audio.volume = 0.2;
     audio.play();
 }
+
+const fullDate = new Date();
+const date = document.getElementById("date");
+date.innerHTML = fullDate.getFullYear();
