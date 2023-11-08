@@ -1,5 +1,6 @@
 # Jogo da Memória
 
+[demo-game.webm](https://github.com/jonas-holanda/memory-game/assets/138180385/45c2618e-f0e1-4257-bec8-ea3f5c7edf3b)
 
 
 **Tendo como base o jogo feito nas aulas, criei meu Jogo da Memória. Onde resolvi um bug que havia no jogo em que não virava as cartas que eram clicadas mais de uma vez, assim aceitando aquela carta como um par encontrado. Criei logos para as cartas e para o jogo. Também adicionei uma janela de mensagem customizada, botão de Reiniciar Jogo, efeitos sonoros e deixei o jogo responsivo.**
